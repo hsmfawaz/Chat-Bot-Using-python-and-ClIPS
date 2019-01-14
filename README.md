@@ -1,4 +1,4 @@
-# Chat-Bot-Using-python-and-ClIPS
+# Chat Bot Using python and ClIPS
 Simple chat bot using python and CLPIS rule based language
 
 ### [By Hisham Fawaz](http://breakdance.io)
