@@ -5,5 +5,5 @@ Simple chat bot using python and CLPIS rule based language
 
 `python index.py`
 
-### [By Hisham Fawaz](http://breakdance.io)
+### [By Hisham Fawaz](http://fb.com/hsmfawaz)
 Fell free to optimize it 
